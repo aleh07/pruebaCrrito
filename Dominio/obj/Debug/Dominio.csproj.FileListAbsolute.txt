@@ -4,3 +4,9 @@ C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.c
 C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.dll
 C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\OneDrive\Escritorio\Nueva carpeta (2)\pruebaCrrito\Dominio\obj\Debug\Dominio.pdb
