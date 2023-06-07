@@ -1,0 +1,6 @@
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\bin\Debug\Dominio.dll
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.dll
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Dominio\obj\Debug\Dominio.pdb

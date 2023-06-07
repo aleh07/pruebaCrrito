@@ -1,0 +1,9 @@
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\bin\Debug\Negocio.dll
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\bin\Debug\Negocio.pdb
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\bin\Debug\Dominio.dll
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\bin\Debug\Dominio.pdb
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\obj\Debug\Negocio.dll
+C:\Users\aleh0\source\repos\TPWeb_CarritoCompras2023\Negocio\obj\Debug\Negocio.pdb
